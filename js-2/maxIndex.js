@@ -6,7 +6,7 @@ function maxIndex(number) {
   let maxIndex = 0;
   for (let i = 1; i < number.length; i++) {
     if (number[i] > number[maxIndex]) {
-      maxIndex = 1;
+      maxIndex = i;
     }
   }
   return maxIndex;
