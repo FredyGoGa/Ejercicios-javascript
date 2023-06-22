@@ -1,1 +1,1 @@
-# aspirantes-mir-javascript
+Ejercicios de JavaScript
